@@ -12,7 +12,7 @@ FRC Team 4541 [Vision Code](https://github.com/cavineers/Vision2021) - *Programm
 
 Discord [Uptime Bot Developer](https://adduptime.net/) - *One of the maintainers and programmers for the Uptime discord bot organization*
 
-Developer of the [SMART](https://github.com/cavineers/SMART) Application - *Lead developer of the SMART artificial intelligent data processing and management APIs built on Electron.js which is able to detect and generate algorithms intelligently for FIRST Scouting organizations.
+Developer of the [SMART](https://github.com/cavineers/SMART) Application - *Lead developer of the SMART artificial intelligent data processing and management APIs built on Electron.js which is able to detect and generate algorithms intelligently for FIRST Scouting organizations.*
 
 ## Programming Language Experience
 
