@@ -28,3 +28,5 @@ Unix command line (MacOS and Linux), Windows command line, Serverside environmen
 
 [*Linkedin*](www.linkedin.com/in/ryan-bode-74284520b)\
 [*Personal Website*](https://ryan4545.github.io/RyanBode/index.html)
+[*Company GitHub*](https://github.com/Bode-Development-Group-LLC)
+[*Company Website*](https://bodedevgroup.com)
